@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "@supabase/supabase-js": "^2.103.2",
+    "axios": "^1.15.0",
+    "bullmq": "^5.74.1",
+    "dotenv": "^17.4.2",
+    "firebase-admin": "^13.8.0",
+    "ioredis": "^5.10.1",
+    "pg": "^8.20.0"
+  }
+}
